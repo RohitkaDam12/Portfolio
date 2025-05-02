@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 202 Rohit kadam. All rights reserved.
+          &copy; 2025 Rohit kadam. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
