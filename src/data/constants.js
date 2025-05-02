@@ -180,8 +180,7 @@ export const projects = [
       It features secure user authentication with JWT and encrypts messages using AES for privacy.
       Real-time messaging is enabled via Socket.IO for both private and group chats.
       The application ensures responsive design, fast performance, and safe communication end-to-end.`,
-    image:
-      "https://drive.google.com/file/d/1Ku1MJvP18-wDchUDzHfRRmpoQkwllUvZ/view?usp=drive_link",
+    image:"https://drive.google.com/file/d/1Ku1MJvP18-wDchUDzHfRRmpoQkwllUvZ/view?usp=drive_link",
     tags: [
       
       "React Js",
