@@ -246,7 +246,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/RohitkaDam12/Gemini-Clone",
-    webapp: "https://fullstack-chat-app-1-fxx1.onrender.com/login",
+    webapp: "https://rohitkadam12.github.io/Gemini-Clone/",
   },
  
   {
