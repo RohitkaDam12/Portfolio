@@ -218,7 +218,7 @@ export const projects = [
       `Created an image search app using the Unsplash API for real-time keyword-based discovery and infinite scroll.
       Handled errors for no results and network issues. Designed a responsive UI using HTML/CSS.`,
     image:
-      "",
+      "https://res.cloudinary.com/dbnp9zdnl/image/upload/v1750273961/Screenshot_2025-06-19_004222_hl2yqr.png",
     tags: [
       
       "HTML",
@@ -237,8 +237,7 @@ export const projects = [
     description:
       `Designed a responsive UI with HTML, CSS, and JavaScript to simulate conversation flow.
        Deployed as a browser-based app without external frameworks.`,
-    image:
-      "",
+    image:"https://res.cloudinary.com/dbnp9zdnl/image/upload/v1750273737/Screenshot_2025-06-19_003822_rnjwyo.png",
     tags: [
       "HTML",
       "CSS",
